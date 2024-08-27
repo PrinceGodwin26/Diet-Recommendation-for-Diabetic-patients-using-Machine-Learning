@@ -1,5 +1,5 @@
 # Diet-Recommendation-for-Diabetic-patients-using-Machine-Learning
 ## Overview
-The goal of this project is to build a multi-target classifier model to classify the type of diabeties that patients have and recommends a diet plan for them accordingly.This plan includes the amount of calories, fats and proteins that should be taken in order to maintain their BMI in a better way.
-
+  The goal of this project is to recommend a diet plan for diabetic patients by understanding their type of diabetes and body nature, by using machine learning.
 ## data understanding
+  The dataset comprises 300 records of diabetic patients, capturing essential variables such as age, sex, BMI, cholesterol levels, type of diabetes, and other related health metrics. Age and sex provide demographic insights, which are crucial for analyzing trends in diabetes prevalence and severity across different groups. BMI, a key indicator of body fat, is included to explore the relationship between obesity and diabetes. Cholesterol levels, often linked to cardiovascular health, offer additional context for understanding how lipid profiles might interact with diabetes management. The dataset also categorizes patients by type of diabetes (e.g., Type 1, Type 2), allowing for an in-depth analysis of the differences in disease mechanisms and treatment approaches. Overall, this dataset offers a comprehensive foundation for studying the multifaceted aspects of diabetes and its management.
